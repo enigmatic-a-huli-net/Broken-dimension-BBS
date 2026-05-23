@@ -1,0 +1,47 @@
+{
+  "dimension_travel": {
+    "subtitle": "subtitles.dimension_travel",
+    "sounds": [
+      {
+        "name": "broken_dimension_bbs:travel",
+        "stream": false
+      }
+    ]
+  },
+  "dimension_portal": {
+    "subtitle": "subtitles.dimension_portal",
+    "sounds": [
+      {
+        "name": "broken_dimension_bbs:portal",
+        "stream": false
+      }
+    ]
+  },
+  "dimension_trigger1": {
+    "subtitle": "subtitles.dimension_trigger1",
+    "sounds": [
+      {
+        "name": "broken_dimension_bbs:dimension_trigger1",
+        "stream": false
+      }
+    ]
+  },
+  "dimension_trigger2": {
+    "subtitle": "subtitles.dimension_trigger2",
+    "sounds": [
+      {
+        "name": "broken_dimension_bbs:dimension_trigger2",
+        "stream": false
+      }
+    ]
+  },
+  "dimension_trigger": {
+    "subtitle": "subtitles.dimension_trigger",
+    "sounds": [
+      {
+        "name": "broken_dimension_bbs:dimension_trigger",
+        "stream": false
+      }
+    ]
+  }
+}

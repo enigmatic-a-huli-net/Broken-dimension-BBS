@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "broken_dimension_bbs:block/portal_beacon"
+    }
+  }
+}

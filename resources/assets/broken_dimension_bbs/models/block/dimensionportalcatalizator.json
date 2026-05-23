@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "broken_dimension_bbs:block/dimension_portal_catalizator1",
+    "up": "broken_dimension_bbs:block/dimension_portal_catalizator1",
+    "north": "broken_dimension_bbs:block/dimension_portal_catalizator1",
+    "east": "broken_dimension_bbs:block/dimension_portal_catalizator2",
+    "south": "minecraft:block/copper_bulb",
+    "west": "broken_dimension_bbs:block/dimension_portal_catalizator2",
+    "particle": "broken_dimension_bbs:block/dimension_portal_catalizator1"
+  },
+  "render_type": "solid"
+}

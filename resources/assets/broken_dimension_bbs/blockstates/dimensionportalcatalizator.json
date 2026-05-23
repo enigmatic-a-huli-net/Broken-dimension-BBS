@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "broken_dimension_bbs:block/dimensionportalcatalizator"
+    },
+    "facing=east": {
+      "model": "broken_dimension_bbs:block/dimensionportalcatalizator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "broken_dimension_bbs:block/dimensionportalcatalizator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "broken_dimension_bbs:block/dimensionportalcatalizator",
+      "y": 270
+    }
+  }
+}

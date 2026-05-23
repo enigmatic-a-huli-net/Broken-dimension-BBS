@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "broken_dimension_bbs:block/portal_beacon2",
+    "up": "broken_dimension_bbs:block/portal_beacon2",
+    "north": "broken_dimension_bbs:block/portal_beacon1",
+    "east": "broken_dimension_bbs:block/portal_beacon1",
+    "south": "broken_dimension_bbs:block/portal_beacon1",
+    "west": "broken_dimension_bbs:block/portal_beacon1",
+    "particle": "broken_dimension_bbs:block/portal_beacon2"
+  },
+  "render_type": "solid"
+}
