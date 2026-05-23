@@ -1,4 +1,4 @@
-The Broken Dimension mod is based on [Klinbee's](https://modrinth.com/user/Klinbee) «[Aetherial Islands](https://modrinth.com/mod/aetherial-islands)» and was created for a private project with the goal of moving the Aetherial Islands generation into a separate dimension. The mod was developed using ChatGPT for coding, but the logic is almost entirely original.
+The Broken Dimension mod is based on [Klinbee's](https://modrinth.com/user/Klinbee) «[Aetherial Islands](https://modrinth.com/mod/aetherial-islands)» and was created for a private project with the goal of moving the «[Aetherial Islands](https://modrinth.com/mod/aetherial-islands)» generation into a separate dimension. The mod was developed using ChatGPT for coding, but the logic is almost entirely original.
 
 To activate the portal, you need a frame made of waxed copper blocks, and the Thermal Optical Source must be loaded with at least 500 MB and set to a rotation speed of 222. You will also need a portal catalyst.
 
